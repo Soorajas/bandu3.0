@@ -5,16 +5,19 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>ഇവിടെ കളി വേണ്ട
+Hey🤚 
+ഈ ബോട്ട് oru kadha solluduma ഗ്രൂപ്പിലേക്ക് ഉള്ളത് എന്ന് ഇനി വീണ്ടും വീണ്ടും പറയണോ??
+അപ്പോ പിന്നെ എന്തിനാ വീണ്ടും വീണ്ടും സ്റ്റാർട്ട് കുത്തി കളിക്കാൻ വരുന്നേ... ആ സൈഡിലോട്ട് എങ്ങാനും മാറി ഇരിക്ക്‌ ഇനി🤭🤭
+https://t.me/AVACINEMAS_2021
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
+https://t.me/orukadhasollatumasir
 For More Details Click Help Button Below..
-@CrazyBotsz
+@orukadhasollatumasir
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>I AM NOT GOING TO HELP YOU!?</u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
